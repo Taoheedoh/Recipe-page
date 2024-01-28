@@ -1,0 +1,63 @@
+.attribution { 
+    font-size: 11px; text-align: center; 
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%);
+}
+ body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: bisque;
+ }
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 500px;
+    height: auto;
+    background-color: white;
+    font-family: 'Outfit', sans-serif;
+    padding: 20px;
+    border-radius: 2%;
+    margin: 20px;
+    line-height: 1.4;
+}
+
+img{
+    width: 400px;
+    border-radius: 2%;
+}
+.recipe .preparation .ingredients .instructions .nutrition{
+    width: 400px;
+}
+
+.preparation{
+    background-color: rgb(235, 221, 230);
+    width: 500px;
+    padding-left: 20px;
+    border-radius: 5%;
+}
+
+h1 h2 h3{
+    font-family: Young Serif;
+}
+
+td{
+    padding-right: 200px;
+}
+
+h2, #burgundy{
+    color:  brown;
+}
+
+#brown::marker{
+    color: brown;
+}
+
+h3{
+    color: purple;
+}
