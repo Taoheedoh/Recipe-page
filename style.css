@@ -61,3 +61,7 @@ h2, #burgundy{
 h3{
     color: purple;
 }
+
+td{
+    border-bottom: 1px solid black;
+}
